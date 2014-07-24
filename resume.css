@@ -1,0 +1,36 @@
+.verticalLine {
+border-left:thick solid black;
+}
+
+h1 {
+  font-size:6em;
+}
+section h3 {
+  font-size:3em;
+  align:left;
+}
+
+.jobs {
+    vertical-align:top;
+  background-color:orange;
+  display:inline-block;
+  margin: 0;
+  padding:0;
+  width:100%;
+}
+.education {
+    vertical-align:top;
+  background-color:teal;
+  display:inline-block;
+  margin: 0;
+  padding:0;
+  width:100%;
+}
+.activities {
+    vertical-align:top;
+  background-color:#7D51E8;
+  display:inline-block;
+  margin: 0;
+  padding:0;
+  width:100%;
+}
